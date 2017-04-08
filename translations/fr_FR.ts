@@ -566,7 +566,7 @@
     </message>
     <message>
         <source>Translators ...</source>
-        <translation>Tranducteurs...</translation>
+        <translation>Traducteurs...</translation>
     </message>
     <message>
         <source>Show peak meter only</source>
