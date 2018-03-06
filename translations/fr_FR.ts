@@ -58,7 +58,7 @@
     </message>
     <message>
         <source>Translation error!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erreur de traduction!</translation>
     </message>
 </context>
 <context>
@@ -93,7 +93,7 @@
     </message>
     <message>
         <source>type here ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ecrire ici</translation>
     </message>
     <message>
         <source>Increase chat font size</source>
@@ -109,11 +109,11 @@
     </message>
     <message>
         <source>chat is off</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">chat fermé</translation>
     </message>
     <message>
         <source>Connected Users (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utilisateurs connectés</translation>
     </message>
 </context>
 <context>
@@ -124,7 +124,7 @@
     </message>
     <message>
         <source>Public chat</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chat public</translation>
     </message>
 </context>
 <context>
@@ -184,7 +184,7 @@
     <name>InactivityDetector</name>
     <message>
         <source>You are not transmiting for a long time! This is intentional?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vous ne transmettez aucun son depuis longtemps! Volontairement?</translation>
     </message>
 </context>
 <context>
@@ -293,7 +293,7 @@
     </message>
     <message>
         <source>Enable/disable your audio transmission for others</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bloquer la transmisssion vers les autres </translation>
     </message>
 </context>
 <context>
@@ -660,15 +660,15 @@
     </message>
     <message>
         <source>Connect with private server ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Connecté avec un serveur privé...</translation>
     </message>
     <message>
         <source>Remember ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Se souvenir</translation>
     </message>
     <message>
         <source>Host a private server in your machine ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Activé un serveur privé sur votre machine...</translation>
     </message>
 </context>
 <context>
@@ -812,15 +812,15 @@
     </message>
     <message>
         <source>Uploading</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">en envoi</translation>
     </message>
     <message>
         <source>Downloading</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> en telechargement</translation>
     </message>
     <message>
         <source>Collapse bottom area</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reduire la partie basse</translation>
     </message>
     <message>
         <source>Collapse chat</source>
@@ -1426,7 +1426,7 @@
     </message>
     <message>
         <source>Remember these options when a musician enters the jam:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Se rappeler de ses options qd un musicien entre</translation>
     </message>
     <message>
         <source>The user channel level</source>
@@ -1446,7 +1446,7 @@
     </message>
     <message>
         <source>The user channel pan</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pan</translation>
     </message>
     <message>
         <source>Pan</source>
